@@ -1,0 +1,5 @@
+print(3+5)
+print(2*5)
+print("i am",35,"years old!")
+print("i am",25)
+print("hello, world!")
